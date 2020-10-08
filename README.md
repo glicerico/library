@@ -14,8 +14,8 @@ All datasets are accessible by issuing a single command from within the [fastai 
 | dataset | architecture |
 | :----------: |:-------------|
 | giant otter | [conv2d classifier with an interactive gui](https://github.com/earthspecies/library/blob/main/giant_otter/cnn-classifier-pipeline.ipynb)|
-|macaques|[conv1d classifier on raw audio](https://github.com/earthspecies/library/blob/main/macaques/fastai2_audio_conv1d.ipynb)|
-|macaques|[xresnet18 classifier with fastai audio](https://github.com/earthspecies/library/blob/main/macaques/fastai2_audio_xresnet18.ipynb)|
-|macaques|[pretrained resnet18 using fastai DataBlock api and error analysis](https://github.com/earthspecies/library/blob/main/macaques/introduction.ipynb)|
-|macaques|[ROCKET model extracting information from raw audio using conv1d without training](https://github.com/earthspecies/library/blob/main/macaques/ROCKET_Sound/MacaqueROCKET.ipynb)|
+|macaque|[conv1d classifier on raw audio](https://github.com/earthspecies/library/blob/main/macaques/fastai2_audio_conv1d.ipynb)|
+|macaque|[xresnet18 classifier with fastai audio](https://github.com/earthspecies/library/blob/main/macaques/fastai2_audio_xresnet18.ipynb)|
+|macaque|[pretrained resnet18 using fastai DataBlock api and error analysis](https://github.com/earthspecies/library/blob/main/macaques/introduction.ipynb)|
+|macaque|[ROCKET model extracting information from raw audio using conv1d without training](https://github.com/earthspecies/library/blob/main/macaques/ROCKET_Sound/MacaqueROCKET.ipynb)|
 |zebra finch|[pretrained resnet18 classifier with confusion matrix using fastai](https://github.com/earthspecies/library/blob/main/zebra_finch/example_of_working_with_the_dataset.ipynb)|
